@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 
-oneflow-skin    : "contrast" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+oneflow-skin    : "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -50,7 +50,6 @@ footer:
   creator: # Replace with your own creator name or remove this if you don't want any "created by" in the footer
       name: "Bridgetown Game Studios"
       url: "https://bridgetowngamestudios.com"
-
 
 
 # Reading Files
