@@ -2,7 +2,7 @@
 main:
   - title: "Home"
     url: https://bridgetowngamestudios.com/
-    blank: true
+    blank: false
   - title: "Games"
     url: /#games
     blank: false
