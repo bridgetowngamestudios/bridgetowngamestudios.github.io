@@ -45,12 +45,8 @@ footer:
       url: "https://x.com/bridgetowngames"
     - label: "GitHub"
       icon: "fab fa-github"
-      url: "https://github.com/perstarke-webdev"
+      url: "https://github.com/bridgetowngamestudios/"
   copyright: "Bridgetown Game Studios" # Replace with your own
-  creator: # Replace with your own creator name or remove this if you don't want any "created by" in the footer
-      name: "Bridgetown Game Studios"
-      url: "https://bridgetowngamestudios.com"
-
 
 # Reading Files
 include:
