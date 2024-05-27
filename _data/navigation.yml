@@ -1,0 +1,11 @@
+# main links
+main:
+  - title: "Home"
+    url: https://bridgetowngamestudios.com/
+    blank: false
+  - title: "Games"
+    url: /#games
+    blank: false
+  - title: "About"
+    url: /#About
+    blank: false
