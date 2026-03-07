@@ -4,7 +4,7 @@ main:
     url: https://bridgetowngamestudios.com/
     blank: false
   - title: "Games"
-    url: /#games
+    url: /#Games
     blank: false
   - title: "About"
     url: /#About
